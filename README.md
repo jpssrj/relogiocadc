@@ -34,16 +34,16 @@ O relógio possui visual alinhado ao padrão Adventista, reforçando identidade 
 <img width="1866" height="921" alt="image" src="https://github.com/user-attachments/assets/7671cb8d-a54b-4545-b631-f8bab8caa28c" />
 
 6. Personalização
-6.1 No arquivo style.css, você pode alterar:
-6.1.1 cores
-6.1.2 tamanho do relógio
-6.1.3 fonte
-6.1.4 logotipo
+No arquivo style.css, você pode alterar:
+cores
+tamanho do relógio
+fonte
+logotipo
 
-6.2 No arquivo script.js, você pode modificar:
-6.2.1 formato de hora
-6.2.2 comportamento do relógio
-6.2.3 animações
+No arquivo script.js, você pode modificar:
+formato de hora
+comportamento do relógio
+animações
 
 7. Contribuições
 Contribuições são bem-vindas!
