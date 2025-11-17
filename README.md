@@ -19,16 +19,16 @@ O objetivo é fornecer aos alunos uma visualização clara do horário, mantendo
 O relógio possui visual alinhado ao padrão Adventista, reforçando identidade e profissionalismo no ambiente escolar.
 
 3. Tecnologias Utilizadas
-3.1 HTML5
-3.2 CSS3
-3.3 JavaScript
+,HTML5
+,CSS3
+,JavaScript
 
 4. Como usar
-4.1 Baixe ou clone este repositório:
-" git clone https://github.com/seuusuario/seurepo.git "
-4.2Abra o arquivo index.html no navegador.
-4.3 Conecte o computador à TV da sala de aula.
-4.4 Coloque em tela cheia (F11) para a melhor experiência.
+Baixe ou clone este repositório:
+" git clone https://github.com/jpssrj/relogiocadc "
+Abra o arquivo index.html no navegador.
+Conecte o computador à TV da sala de aula.
+Coloque em tela cheia (F11) para a melhor experiência.
 
 5. Prévia
 <img width="1866" height="921" alt="image" src="https://github.com/user-attachments/assets/7671cb8d-a54b-4545-b631-f8bab8caa28c" />
